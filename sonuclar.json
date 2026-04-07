@@ -1,0 +1,12 @@
+[
+    {
+        "site": "HaberTürk",
+        "durum": "Başarılı",
+        "veri": []
+    },
+    {
+        "site": "E-Ticaret-X",
+        "durum": "Hata",
+        "mesaj": "436 Client Error: status code 436 for url: https://site-b.com/urun/1"
+    }
+]
